@@ -22,5 +22,7 @@ HF_TOKEN=your_token_here
 ## Run
 
 ```bash
-npx tsx src/agent.ts "Your input here"
+npm run prompt_chaining "Your input here"
+ex:
+npm run prompt_chaining "Give me a beginner roadmap to learn prompt engineering"
 ```
