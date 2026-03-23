@@ -8,7 +8,7 @@
     "1_prompt_chaining": "tsx src/1_prompt_chaining/agent.ts",
     "2_routing": "tsx src/2_routing/agent.ts",
     "3_parallelization": "tsx src/3_parallelization/agent.ts",
-    "4_refelection": "tsx src/4_refelection/agent.ts"
+    "4_reflection": "tsx src/4_reflection/agent.ts"
   },
   "keywords": [],
   "author": "",
